@@ -7,3 +7,5 @@ Steps to install and run the project.
 example of how to use the project.
 ### Authors
 - Prince Mecwan
+- Rajbir Singh
+- Hiori Nakazato
